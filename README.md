@@ -46,10 +46,12 @@
         </ul>
     </li>
     <li>Additional features:
+    <ul>
     <li>Registre form for coaches</li>
     <li>Registre form for customer</li>
     <li>Reset password (user will get it in his/her email) </li>
     <li>Change password</li>
+    </ul>
     </li>
     </ul>
 </p>
