@@ -64,5 +64,5 @@
     <li>Migrate to the production environment</li>
     <li>Final testing with some coaches on the production environment</li>
 </ul>
-<h2>How long does take?</h2>
+<h2>How long does it take?</h2>
 <p>2 months</p>
